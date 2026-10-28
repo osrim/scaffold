@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "skills": {
+    "docs-writer": {
+      "source": "https://github.com/tech-leads-club/agent-skills",
+      "branch": "main",
+      "path": "packages/skills-catalog/skills/(development)/docs-writer",
+      "commit": "b656e589c9367c8c6eef36c51f96a53af2f32c5d",
+      "integrity": "sha256-jjeJFem3QAypF1KcTWW8BCa/V4bh2PKBoni1mEOaCxc=",
+      "track": "auto",
+      "tag": "v1.6.1"
+    }
+  }
+}
